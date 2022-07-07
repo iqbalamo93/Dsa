@@ -1,2 +1,2 @@
 # Dsa
-Its' work for varisous building blocks for DSA/
+Its' work for various building blocks for DSA.
